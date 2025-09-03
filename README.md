@@ -6,9 +6,11 @@
 
 - [Getting Started](#🚀-getting-started)
 - [Categories](#📂-categories)
-  - [Services](#🛎️-services)
+  - [Communication](#📱-communication)
   - [Development](#👨🏼‍💻-development)
   - [Games](#🎮-games)
+  - [Hardware](#💻-hardware)
+  - [Services](#🛎️-services)
 - [Contributing](#🤝-contributing)
 - [License](#📄-license)
 
@@ -18,12 +20,9 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 
 ## 📂 Categories
 
-### 🛎️ Services
-
-- **[1Password](https://1password.com/)** – Secure password manager for individuals and teams.
-- **[NextDNS](https://nextdns.io/)** – Modern, customizable DNS service for privacy and security.
-- **[Music League](https://musicleague.com/)** – Social music game for sharing and discovering songs with friends.
-- **[Proton Mail](https://proton.me/)** – Secure, privacy-focused email service with additional tools like Proton Drive and Proton VPN.
+### 📱 Communication
+- **[Signal](https://signal.org/)** – Encrypted messaging app focused on privacy and security.
+- **[Visible Wireless](https://www.visible.com/)** – Inexpensive & unlimited phone service.
 
 ### 👨🏼‍💻 Development
 
@@ -36,9 +35,20 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 
 - **[Jackbox Games](https://jackboxgames.com/)** – Hilarious party games perfect for groups. Each player uses their phone as a controller, making it easy to play with friends and family.
 
-### 📱 Communication
-- **[Signal](https://signal.org/)** – Encrypted messaging app focused on privacy and security.
-- **[Visible Wireless](https://www.visible.com/)** – Inexpensive & unlimited phone service.
+### 💻 Hardware
+
+- **[Elgato Stream Deck](https://www.elgato.com/en/stream-deck)** – Customizable control pad for streamers, productivity, and automation.
+- **[Raspberry Pi](https://raspberrypi.com)** – Affordable, credit-card-sized computer for learning, tinkering, and DIY projects.
+- **[Adafruit](https://adafruit.com)** – Online store for electronics, sensors, and maker hardware with great tutorials.
+- **[Argon 40](https://www.argon40.com/)** – High-quality cases and accessories for Raspberry Pi and other single-board computers.
+- **[Prusa Mini+ 3D Printer](https://www.prusa3d.com/en)** – Reliable, user-friendly 3D printer ideal for hobbyists and makers.
+
+### 🛎️ Services
+
+- **[1Password](https://1password.com/)** – Secure password manager for individuals and teams.
+- **[NextDNS](https://nextdns.io/)** – Modern, customizable DNS service for privacy and security.
+- **[Music League](https://musicleague.com/)** – Social music game for sharing and discovering songs with friends.
+- **[Proton Mail](https://proton.me/)** – Secure, privacy-focused email service with additional tools like Proton Drive and Proton VPN.
 
 ## 🤝 Contributing
 
