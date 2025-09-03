@@ -4,15 +4,15 @@
 
 ## 📋 Table of Contents
 
-- [Getting Started](#🚀-getting-started)
-- [Categories](#📂-categories)
-  - [Communication](#📱-communication)
-  - [Development](#👨🏼‍💻-development)
-  - [Games](#🎮-games)
-  - [Hardware](#💻-hardware)
-  - [Services](#🛎️-services)
-- [Contributing](#🤝-contributing)
-- [License](#📄-license)
+- [Getting Started](#getting-started)
+- [Categories](#categories)
+  - [Communication](#communication)
+  - [Development](#development)
+  - [Games](#games)
+  - [Hardware](#hardware)
+  - [Services](#services)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 🚀 Getting Started
 
@@ -21,6 +21,7 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 ## 📂 Categories
 
 ### 📱 Communication
+
 - **[Signal](https://signal.org/)** – Encrypted messaging app focused on privacy and security.
 - **[Visible Wireless](https://www.visible.com/)** – Inexpensive & unlimited phone service.
 

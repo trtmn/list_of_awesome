@@ -1,0 +1,91 @@
+---
+alwaysApply: true
+---
+# GitHub Style Markdown
+
+Always use GitHub-style markdown formatting in [README.md](mdc:README.md) and other markdown files.
+
+## GitHub Markdown Standards
+
+### Headers
+- Use `#` for main title (H1)
+- Use `##` for major sections (H2)
+- Use `###` for subsections (H3)
+- Use `####` for sub-subsections (H4)
+- Always include a space after the `#` symbols
+
+### Lists
+- Use `-` (hyphen) for unordered lists, not `*` or `+`
+- Use `1.` for ordered lists
+- Indent sub-items with 2 spaces
+- Keep consistent spacing between list items
+
+### Links
+- Use `[Link Text](url)` format
+- Make link text descriptive and meaningful
+- Use relative links for internal references
+- Include `.md` extension for markdown file links
+
+### Emphasis
+- Use `**bold**` for strong emphasis
+- Use `*italic*` for light emphasis
+- Use `***bold italic***` for combined emphasis
+- Use `~~strikethrough~~` for deleted text
+
+### Code
+- Use `` `code` `` for inline code
+- Use ``` ``` for code blocks
+- Specify language after opening ``` when possible
+- Indent code blocks with 4 spaces or use fenced blocks
+
+### Tables
+- Use `|` to separate columns
+- Use `---` to separate header from content
+- Align columns with `:---`, `:---:`, or `---:`
+- Keep tables simple and readable
+
+### Blockquotes
+- Use `>` for blockquotes
+- Use `>>` for nested blockquotes
+- Include attribution when appropriate
+
+### Horizontal Rules
+- Use `---` for horizontal rules
+- Place them between major sections
+
+### Images
+- Use `![Alt Text](image-url)` format
+- Provide meaningful alt text
+- Use relative paths for local images
+
+## Formatting Examples
+
+### Correct List Format
+```markdown
+- **Item Name** - Description with proper spacing
+- **Another Item** - Consistent formatting
+  - Sub-item with 2-space indentation
+  - Another sub-item
+```
+
+### Correct Link Format
+```markdown
+- [GitHub](https://github.com/) - Official GitHub website
+- [README.md](README.md) - Internal file reference
+```
+
+### Correct Header Format
+```markdown
+## 📂 Categories
+### 🛎️ Services
+#### Subcategory
+```
+
+## Consistency Rules
+
+1. **Always use hyphens** for unordered lists
+2. **Maintain 2-space indentation** for nested items
+3. **Keep emojis in headers** for visual appeal
+4. **Use descriptive link text** that explains the destination
+5. **Maintain alphabetical order** within categories
+6. **Use consistent spacing** between sections

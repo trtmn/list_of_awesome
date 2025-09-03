@@ -1,0 +1,53 @@
+---
+alwaysApply: true
+---
+# Auto-Update Table of Contents
+
+Always update the table of contents in [README.md](mdc:README.md) when adding, removing, or modifying categories or sections.
+
+## Table of Contents Rules
+
+1. **Keep TOC synchronized** - The table of contents must always reflect the actual content structure
+2. **Use consistent formatting** - All TOC entries should follow the same format and indentation
+3. **Update links** - Ensure all TOC links point to the correct section headers
+4. **Maintain order** - Keep the TOC in the same order as the content appears in the file
+
+## TOC Format
+
+```markdown
+## 📋 Table of Contents
+
+- [Section Name](#section-name)
+- [Another Section](#another-section)
+  - [Subsection](#subsection)
+```
+
+## When to Update TOC
+
+- Adding new categories or sections
+- Removing categories or sections  
+- Renaming categories or sections
+- Reordering content
+- Adding subsections within categories
+
+## Example
+
+If you add a new "Hardware" section, immediately update the TOC:
+
+```markdown
+## 📋 Table of Contents
+
+- [Getting Started](#getting-started)
+- [Categories](#categories)
+  - [Services](#services)
+  - [Hardware](#hardware)  ← New entry
+- [Contributing](#contributing)
+- [License](#license)
+```
+
+## Header Formatting
+
+- Use `##` for main sections
+- Use `###` for subsections within categories
+- Ensure header text matches exactly what's in the TOC
+- Use lowercase with hyphens for anchor links (e.g., `#hardware-gadgets`)
