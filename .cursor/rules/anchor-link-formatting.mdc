@@ -1,0 +1,44 @@
+---
+alwaysApply: true
+---
+
+# Anchor Link Formatting Rules
+
+When creating anchor links for section headers that contain emojis, follow these rules:
+
+## Core Principles
+
+1. **Remove emojis** from the anchor text
+2. **Convert spaces to dashes** between emoji and text
+3. **Keep emojis in visible headers** for visual appeal
+
+## Examples
+
+| Header Text | Anchor Link |
+|-------------|-------------|
+| "📱 Communication" | `#-communication` |
+| "👨🏼‍💻 Development" | `#-development` |
+| "🎮 Games" | `#-games` |
+| "💻 Hardware" | `#-hardware` |
+| "🛎️ Services" | `#-services` |
+
+## Why This Pattern?
+
+- **GitHub Compatibility**: GitHub's markdown renderer doesn't handle emojis in anchor links properly
+- **Space Handling**: Spaces between emojis and text need to be converted to dashes for valid HTML anchors
+- **Visual Appeal**: Emojis remain visible in headers while maintaining functional navigation
+
+## Implementation
+
+When updating [README.md](mdc:README.md) or other markdown files:
+
+1. Check if section headers contain emojis
+2. Create anchor links by removing emojis and converting spaces to dashes
+3. Update Table of Contents to use the correct anchor format
+4. Test links to ensure they work properly on GitHub
+
+## Common Mistakes to Avoid
+
+- ❌ `#📱-communication` (keeping emoji in anchor)
+- ❌ `#communication` (missing dash for space)
+- ✅ `#-communication` (correct format)
