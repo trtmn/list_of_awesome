@@ -4,15 +4,17 @@
 
 ## 📋 Table of Contents
 
-- [Getting Started](#-getting-started)
-- [Categories](#-categories)
+- [Getting Started](#getting-started)
+- [Rules for Future Updates](#rules-for-future-updates)
+- [Categories](#categories)
   - [Communication](#-communication)
   - [Development](#-development)
   - [Games](#-games)
   - [Hardware](#-hardware)
   - [Services](#-services)
-- [Contributing](#-contributing)
-- [License](#-license)
+  - [Software](#-software)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 🚀 Getting Started
 
@@ -50,6 +52,15 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 - **[NextDNS](https://nextdns.io/)** – Modern, customizable DNS service for privacy and security.
 - **[Music League](https://musicleague.com/)** – Social music game for sharing and discovering songs with friends.
 - **[Proton Mail](https://proton.me/)** – Secure, privacy-focused email service with additional tools like Proton Drive and Proton VPN.
+
+### 💾 Software
+
+- **[Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios)** – Powerful automation app for iOS and macOS to create custom workflows and shortcuts.
+- **[Brave Browser](https://brave.com/)** – Privacy-focused web browser with built-in ad blocking and enhanced security features.
+- **[CyberDuck](https://cyberduck.io/)** – Free, open-source FTP, SFTP, WebDAV, and cloud storage browser for macOS and Windows.
+- **[macOS](https://www.apple.com/macos/)** – Apple's powerful and intuitive operating system for Mac computers.
+- **[PyCharm CE](https://www.jetbrains.com/pycharm/)** – Free, open-source Python IDE with intelligent code completion and debugging tools.
+- **[Raspberry Pi OS](https://www.raspberrypi.com/software/)** – Official operating system for Raspberry Pi, optimized for education and development.
 
 ## 🤝 Contributing
 
