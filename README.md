@@ -2,23 +2,6 @@
 
 > A personal collection of things I love and recommend - software, products, tools, and resources that have made a difference in my life.
 
-## 📝 Rules for Future Updates
-
-### Anchor Link Formatting
-When creating anchor links for section headers:
-1. **Remove emojis** from the anchor text
-2. **Convert spaces to dashes** between emoji and text
-3. **Keep emojis in visible headers** for visual appeal
-
-**Examples:**
-- "📱 Communication" → `#-communication`
-- "👨🏼‍💻 Development" → `#-development`
-- "🎮 Games" → `#-games`
-- "💻 Hardware" → `#-hardware`
-- "🛎️ Services" → `#-services`
-
----
-
 ## 📋 Table of Contents
 
 - [Getting Started](#getting-started)
