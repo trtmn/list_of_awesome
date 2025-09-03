@@ -46,12 +46,14 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 - **[Argon 40](https://www.argon40.com/)** – High-quality cases and accessories for Raspberry Pi and other single-board computers.
 - **[Prusa Mini+ 3D Printer](https://www.prusa3d.com/en)** – Reliable, user-friendly 3D printer ideal for hobbyists and makers.
 
-### 🛎️ Services
+### ⚙️ Services
 
 - **[1Password](https://1password.com/)** – Secure password manager for individuals and teams.
-- **[NextDNS](https://nextdns.io/)** – Modern, customizable DNS service for privacy and security.
 - **[Music League](https://musicleague.com/)** – Social music game for sharing and discovering songs with friends.
+- **[NextDNS](https://nextdns.io/)** – Modern, customizable DNS service for privacy and security.
+- **[Printables](https://www.printables.com/)** – Community-driven platform for sharing and downloading free 3D printable models.
 - **[Proton Mail](https://proton.me/)** – Secure, privacy-focused email service with additional tools like Proton Drive and Proton VPN.
+- **[Thingiverse](https://www.thingiverse.com/)** – Large online repository of free 3D printable models and designs.
 
 ### 💾 Software
 
