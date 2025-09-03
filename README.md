@@ -45,7 +45,7 @@ This is my personal curated list. I'll be adding items as I discover and fall in
 - **[Argon 40](https://www.argon40.com/)** – High-quality cases and accessories for Raspberry Pi and other single-board computers.
 - **[Prusa Mini+ 3D Printer](https://www.prusa3d.com/en)** – Reliable, user-friendly 3D printer ideal for hobbyists and makers.
 
-### ⚙️ Services
+### 🔧 Services
 
 - **[1Password](https://1password.com/)** – Secure password manager for individuals and teams.
 - **[Music League](https://musicleague.com/)** – Social music game for sharing and discovering songs with friends.
