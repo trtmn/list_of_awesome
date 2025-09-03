@@ -5,7 +5,6 @@
 ## 📋 Table of Contents
 
 - [Getting Started](#getting-started)
-- [Rules for Future Updates](#rules-for-future-updates)
 - [Categories](#categories)
   - [Communication](#-communication)
   - [Development](#-development)
