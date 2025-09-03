@@ -4,15 +4,15 @@
 
 ## 📋 Table of Contents
 
-- [Getting Started](#getting-started)
-- [Categories](#categories)
-  - [Communication](#communication)
-  - [Development](#development)
-  - [Games](#games)
-  - [Hardware](#hardware)
-  - [Services](#services)
-- [Contributing](#contributing)
-- [License](#license)
+- [Getting Started](#-getting-started)
+- [Categories](#-categories)
+  - [Communication](#-communication)
+  - [Development](#-development)
+  - [Games](#-games)
+  - [Hardware](#-hardware)
+  - [Services](#-services)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🚀 Getting Started
 
